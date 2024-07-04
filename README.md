@@ -6,7 +6,7 @@
 ### 学習中の言語
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,rust,html,css,js)](https://skillicons.dev)
 ### 学習中のツール
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,github,git,mysql,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,github,git,mysql,vscode,androidstudio,notion)](https://skillicons.dev)
 ### 学習したいモジュール
 [![My Skills](https://skillicons.dev/icons?i=react,tensorflow)](https://skillicons.dev)
 ## Profile ⚡
